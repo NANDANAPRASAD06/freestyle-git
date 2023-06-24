@@ -7,3 +7,6 @@ parser = argparse.ArgumentParser()
 args = parser.parse_args()
 print("Hi NanVishwas!!")
 print(int(input1)**3)
+
+import sys
+sys.exit(0)
